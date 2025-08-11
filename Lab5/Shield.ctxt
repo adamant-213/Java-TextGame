@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Shield
+comment1.params=name\ grade\ defense
+comment1.target=Shield(java.lang.String,\ java.lang.String,\ int)
+comment2.params=g
+comment2.target=java.lang.String\ setGrade(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getGrade()
+comment4.params=d
+comment4.target=int\ setDefense(int)
+comment5.params=
+comment5.target=int\ getDefense()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

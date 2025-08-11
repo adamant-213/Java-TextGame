@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Menu_UI
+comment1.params=
+comment1.target=Menu_UI()
+comment2.params=c
+comment2.target=Menu_UI(java.util.ArrayList)
+comment3.params=str
+comment3.target=void\ addChoice(java.lang.String)
+comment4.params=index
+comment4.target=void\ removeChoice(int)
+comment5.params=
+comment5.target=void\ printMenu()
+comment6.params=
+comment6.target=int\ getInput()
+comment7.params=msg
+comment7.target=java.lang.String\ getUserInput(java.lang.String)
+comment8.params=msg
+comment8.target=java.lang.String\ print(java.lang.String)
+comment9.params=t
+comment9.target=java.lang.String\ TryParseInt(java.lang.String)
+numComments=10

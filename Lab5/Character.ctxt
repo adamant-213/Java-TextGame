@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=name\ gold\ hp\ inventory
+comment1.target=Character(java.lang.String,\ int,\ int,\ java.util.List)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getGold()
+comment4.params=
+comment4.target=int\ getHP()
+comment5.params=
+comment5.target=java.util.List\ getInventory()
+comment6.params=d
+comment6.target=int\ takeDamage(int)
+comment7.params=h
+comment7.target=int\ Heal(int)
+comment8.params=g
+comment8.target=int\ gainGold(int)
+comment9.params=l
+comment9.target=int\ loseGold(int)
+numComments=11
